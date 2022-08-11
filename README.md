@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
-</p>
+
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
