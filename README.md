@@ -21,7 +21,7 @@
 SpringBoot</br>
 JPA</br>
 JAVA</br>
-mysql
+MySQL
 </p>
 </br></br>
 
