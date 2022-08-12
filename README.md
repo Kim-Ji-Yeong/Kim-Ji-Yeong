@@ -20,7 +20,8 @@
 <p align="center">
 SpringBoot</br>
 JPA</br>
-JAVA
+JAVA</br>
+mysql
 </p>
 </br></br>
 
