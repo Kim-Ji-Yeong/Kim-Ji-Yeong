@@ -33,6 +33,6 @@ MySQL
 
 
 </br></br></br></br>
-https://github.com/Kim-Ji-Yeong/REST-API-CRUD</br>
-https://github.com/Kim-Ji-Yeong/MVC_CRUD</br>
-https://github.com/Kim-Ji-Yeong/MV-Bunker
+REST-API 게시판 https://github.com/Kim-Ji-Yeong/REST-API-CRUD</br>
+MVC 게시판 https://github.com/Kim-Ji-Yeong/MVC_CRUD</br>
+프론트엔드 참여 프로젝트 https://github.com/Kim-Ji-Yeong/MV-Bunker
