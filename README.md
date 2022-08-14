@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/SringBoot-6DB33F?style=plastic-square&logo=SringBoot&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/PostsgresSQL-4169E1?style=plastic-square&logo=PostsgresSQL&logoColor=white"/></a> &nbsp 
 </p>
 </br>
 </br>
