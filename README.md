@@ -58,7 +58,7 @@ MySQL
 
 </br></br></br></br>
 Spring Data JPA라는 모듈을 이용하여 JPA 기술을 다루어 REST API게시판을 구현하였습니다.</br>
-&nbsp이를통해 개발자는 객체지향적으로 프로그래밍을 하고 JPA가 이를 관계형 데이터베이스에 맞게 SQL을 대신 </br>&nbsp생성해서 실행하는 과정을 배우게되었습니다.
+이를통해 개발자는 객체지향적으로 프로그래밍을 하고 JPA가 이를 관계형 데이터베이스에 맞게 SQL을 대신 </br>생성해서 실행하는 과정을 배우게되었습니다.
 
 REST-API 게시판 https://github.com/Kim-Ji-Yeong/REST-API-CRUD</br>
 MVC 게시판 https://github.com/Kim-Ji-Yeong/MVC_CRUD</br>
