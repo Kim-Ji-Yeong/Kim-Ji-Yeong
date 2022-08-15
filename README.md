@@ -63,7 +63,9 @@ Spring Data JPA라는 모듈을 이용하여 JPA 기술을 다루어 REST API게
 
 
 MVC 게시판 https://github.com/Kim-Ji-Yeong/MVC_CRUD</br>
+MVC 구조는 Model, View, 그리고 Controller, MVC 구조를 이용하여 독립적으로 개발에 대해 공부할 수 있게 되었습니다.<br>
 프론트엔드 참여 프로젝트 https://github.com/Kim-Ji-Yeong/MV-Bunker
+
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
