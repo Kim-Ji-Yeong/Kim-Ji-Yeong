@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/SringBoot-6DB33F?style=plastic-square&logo=SringBoot&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/PostsgresSQL-4169E1?style=plastic-square&logo=PostsgresSQL&logoColor=white"/></a> &nbsp 
+
+
 </p>
 </br>
 </br>
@@ -61,3 +63,6 @@ Spring Data JPA라는 모듈을 이용하여 JPA 기술을 다루어 REST API게
 REST-API 게시판 https://github.com/Kim-Ji-Yeong/REST-API-CRUD</br>
 MVC 게시판 https://github.com/Kim-Ji-Yeong/MVC_CRUD</br>
 프론트엔드 참여 프로젝트 https://github.com/Kim-Ji-Yeong/MV-Bunker
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
