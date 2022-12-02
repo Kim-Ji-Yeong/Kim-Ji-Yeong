@@ -53,13 +53,7 @@ MySQL
 
 
 </br></br></br></br>
-:books:REST-API 게시판 https://github.com/Kim-Ji-Yeong/REST-API-CRUD</br>
-Spring Data JPA라는 모듈을 이용하여 JPA 기술을 다루어 REST API게시판을 구현하였습니다.</br>
-이를통해 개발자는 객체지향적으로 프로그래밍을 하고 JPA가 이를 관계형 데이터베이스에 맞게 SQL을 대신 </br>생성해서 실행하는 과정을 배우게되었습니다.
 
-
-:books:MVC 게시판 https://github.com/Kim-Ji-Yeong/MVC_CRUD</br>
-MVC 구조는 Model, View, 그리고 Controller, MVC 구조에 대해 공부할 수 있게 되었습니다.<br></br>
 :books:프론트엔드 참여 프로젝트 https://github.com/Kim-Ji-Yeong/MV-Bunker  <br>
 프론트엔드로 프로젝트에 참여하여 백엔드와 협업하여 서버개발의 경험을 쌓았습니다.
 
