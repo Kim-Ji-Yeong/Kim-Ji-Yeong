@@ -54,9 +54,6 @@ MySQL
 
 </br></br></br></br>
 
-:books:프론트엔드 참여 프로젝트 https://github.com/Kim-Ji-Yeong/MV-Bunker  <br>
-프론트엔드로 프로젝트에 참여하여 백엔드와 협업하여 서버개발의 경험을 쌓았습니다.
-
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
