@@ -1,5 +1,5 @@
 
-
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&text=Hello!&rotate=10&fontAlign=80&fontAlignY=20)
 # 💻 Programming Experience
 
 <br>
@@ -20,11 +20,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white"/> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/Java-1F6B75?style=flat&logo=OpenJDK&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-1F6B75?style=plastic-square&logo=OpenJDK&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/SringBoot-6DB33F?style=plastic-square&logo=SringBoot&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic-square&logo=SpringBoot&logoColor=white"/></a> &nbsp 
 
 
 
@@ -43,11 +43,18 @@ Next.js
 </br></br>
 
 
+
 <p align="center">
 :point_right:Me:v:
 <p align="center">
 <a href="https://velog.io/@yeong6415"><img src="https://img.shields.io/badge/Vlog-20C997?style=plastic-square&logo=Vlog&logoColor=white"/></a> &nbsp
 
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact)](https://github.com/Kim-Ji-Yeong/github-readme-stats)
+
+
+</div>
 
 </br></br></br></br>
 
