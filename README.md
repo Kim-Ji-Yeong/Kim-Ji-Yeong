@@ -12,14 +12,16 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1F6B75?style=flat&logo=OpenJDK&logoColor=white"/> &nbsp
+     <img src="https://img.shields.io/badge/react-61DAFB?style=plastic-square&logo=react&logoColor=black">  &nbsp
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=purple"> &nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic-square&logo=Android&logoColor=white"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/Java-1F6B75?style=flat&logo=OpenJDK&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/SringBoot-6DB33F?style=plastic-square&logo=SringBoot&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic-square&logo=Bootstrap&logoColor=white"/></a> &nbsp 
 
 
 
