@@ -56,13 +56,10 @@
 <p align="center">
 <a href="https://velog.io/@yeong6415"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic-square&logo=Velog&logoColor=white"/></a> &nbsp
 
-<div align=center>
-
+<p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact)](https://github.com/Kim-Ji-Yeong/github-readme-stats)
-
-
-</div>
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Kim-Ji-Yeong&show_icons=true&theme=vue-dark"/>
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
