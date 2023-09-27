@@ -1,10 +1,7 @@
 
 # 💻 Programming Experience
 
-<br>
-
-### 멋쟁이 사자처럼 백엔드 스쿨 2기
-- 교육기간 : 22.09.19 ~ 23.02.17
+<b>멋쟁이 사자처럼 백엔드 스쿨 2기(교육기간 : 22.09.19 ~ 23.02.17)</b>
 
 </br></br>
 </hr>
@@ -16,7 +13,9 @@
 
 📚 [BookMore[북: 모아] (2023.01 ~ 2023.02)](https://github.com/Kim-Ji-Yeong/book-more) </br>
 - SNS 스타일의 도서 리뷰 공유 플랫폼으로, 팔로잉/팔로워 기능, 랭킹 기능, 시각적인 효과의 리뷰가 중점적인 서비스
-
+  
+</hr>
+</br>
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
