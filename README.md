@@ -58,7 +58,7 @@
 
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact)](https://github.com/Kim-Ji-Yeong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact)](https://github.com/Kim-Ji-Yeong/github-readme-stats) 
 <img src="https://github-readme-stats.vercel.app/api?username=Kim-Ji-Yeong&show_icons=true&theme=vue-dark"/>
 </p>
 
