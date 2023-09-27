@@ -43,10 +43,16 @@
 </br>
 <p align="center">
 :seedling:공부 중인 분야:seedling: </br>
-<p align="center">
-<img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=appveyor &logo=react&logoColor=black">  &nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=appveyor &logo=Next.js&logoColor=white">
+
 </p>
+
+<div align="center">
+  
+<a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1695797553950?alt=media&token=3cde9678-fb24-47c6-b40f-5f8af31dec2b" alt="stackticon" /></a>
+
+</div>
+
+
 </br></br>
 
 
