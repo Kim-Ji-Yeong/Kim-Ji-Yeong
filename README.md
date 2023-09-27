@@ -65,10 +65,10 @@
 
 </br></br>
 
-<p align="center">
+<div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact)](https://github.com/Kim-Ji-Yeong/github-readme-stats) 
-<img src="https://github-readme-stats.vercel.app/api?username=Kim-Ji-Yeong&show_icons=true&theme=vue-dark"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact&theme=vue-dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Ji-Yeong&show_icons=true&theme=vue-dark)
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
