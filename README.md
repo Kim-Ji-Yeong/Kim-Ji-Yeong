@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Java-1F6B75?style=plastic-square&logo=OpenJDK&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic-square&logo=SpringBoot&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/SpringBootSecurity-6DB33F?style=plastic-square&logo=SpringBootSecurity&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic-square&logo=Spring Security&logoColor=white"/></a> &nbsp 
 
 
 </p>
