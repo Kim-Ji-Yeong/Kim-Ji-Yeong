@@ -1,5 +1,4 @@
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&text=Hello!&rotate=10&fontAlign=80&fontAlignY=20)
 # 💻 Programming Experience
 
 <br>
