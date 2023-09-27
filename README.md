@@ -2,6 +2,8 @@
 
 # 💻 Programming Experience
 
+<br>
+
 ### 멋쟁이 사자처럼 백엔드 스쿨 2기
 - 교육기간 : 22.09.19 ~ 23.02.17
 
@@ -32,10 +34,10 @@
 <p align="center">
 :seedling:공부 중인 분야:seedling: </br>
 <p align="center">
-SpringBoot</br>
-JPA</br>
-JAVA</br>
-MySQL
+JavaScript</br>
+TypeScript</br>
+React</br>
+Next.js
 </p>
 </br></br>
 
