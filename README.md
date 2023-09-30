@@ -1,7 +1,7 @@
 
 # 💻 Programming Experience
 
-🦁<b>멋쟁이 사자처럼 백엔드 스쿨 2기(교육기간 : 22.09.19 ~ 23.02.17).</b>
+🦁<b>멋쟁이 사자처럼 백엔드 스쿨 2기(교육기간 : 22.09.19 ~ 23.02.17)</b>
 
 </br></br>
 </hr>
@@ -31,9 +31,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white"/> &nbsp </br> </hr>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic-square&logo=Android&logoColor=white"/> &nbsp -->
-<img src="https://img.shields.io/badge/Node.js-1F6B75?style=plastic-square&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Java-1F6B75?style=plastic-square&logo=OpenJDK&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Node.js-1F6B75?style=plastic-square&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic-square&logo=SpringBoot&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic-square&logo=Spring Security&logoColor=white"/></a> &nbsp 
 
