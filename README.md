@@ -49,7 +49,7 @@
 
 <div align="center">
   
-<a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1695797553950?alt=media&token=3cde9678-fb24-47c6-b40f-5f8af31dec2b" alt="stackticon" /></a>
+<a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1696166769217?alt=media&token=32f26a35-129a-49bc-a991-a5cb11e07dd0" alt="stackticon" /></a>
 
 </div>
 
