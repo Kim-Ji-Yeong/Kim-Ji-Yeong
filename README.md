@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=console.log("Hi)&fontAlign=68&rotate=13&fontAlignY=25&g%20&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=console.log("Hi")&fontAlign=67&rotate=13&fontAlignY=25&g%20&descAlign=70.&descAlignY=44)
 # 💻 Programming Experience
 
 🦁<b>멋쟁이 사자처럼 백엔드 스쿨 2기(교육기간 : 22.09.19 ~ 23.02.17)</b>
