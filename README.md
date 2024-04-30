@@ -1,4 +1,4 @@
-# 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=13AF5B&vCenter=true&random=false&width=435&height=35&lines=Programming+Experience)](https://git.io/typing-svg)
+# 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=10AF85&vCenter=true&random=false&width=435&height=35&lines=Programming+Experience)](https://git.io/typing-svg)
 
 🦁<b>멋쟁이 사자처럼 백엔드 스쿨 2기(교육기간 : 22.09.19 ~ 23.02.17)</b>
 
