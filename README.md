@@ -63,27 +63,14 @@
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=1&pause=999999&color=00FF41&vCenter=true&width=120&height=60&lines=VELOG"  valign="middle"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" height="26"  valign="middle"/>
-</div>
 
-
-
-
-<div align="center">
-  <a href="https://velog.io/@yeong6415">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
-  </a>
-</div>
 
 <br/><br/><br/><br/>
 
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact&theme=vue-dark) 
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=200&section=footer)
 
