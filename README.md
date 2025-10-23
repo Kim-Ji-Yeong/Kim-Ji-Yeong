@@ -1,81 +1,93 @@
-# 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=10AF85&vCenter=true&random=false&width=435&height=35&lines=Programming+Experience)](https://git.io/typing-svg)
 
-🦁<b>멋쟁이 사자처럼 백엔드 스쿨 2기(교육기간 : 22.09.19 ~ 23.02.17)</b>
+<!-- 1. 제목 ASCII -->
+<pre align="center">
+██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
+</pre>
 
-</br></br>
-</hr>
+<pre align="center">
+> SYSTEM BOOT SEQUENCE INITIATED
+</pre>
 
-## 🖱Project
+<!-- 2. 로딩 -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Ajax-loader.gif" height="55" valign="middle"/>
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=50&pause=450&color=00FF41&vCenter=true&width=250&height=80&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." valign="middle"/>
+</div>
 
-📱 [MutsaSNS(멋사스네스) (2022.12 ~ 2023.01)](https://github.com/Kim-Ji-Yeong/MutsaSNSProject) </br>
-- 회원가입, 로그인, 포스트 및 댓글 CRUD, 마이피드, 좋아요, 알림 기능이 있는 SNS 서비스
 
-📚 [BookMore[북: 모아] (2023.01 ~ 2023.02)](https://github.com/Kim-Ji-Yeong/book-more) </br>
-- SNS 스타일의 도서 리뷰 공유 플랫폼으로, 팔로잉/팔로워 기능, 랭킹 기능, 시각적인 효과의 리뷰가 중점적인 서비스
-  
 
-</br>
-</br>
+<br/><br/><br/><br/><br/>
 
-<h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5b1.png" height="35" valign="middle"/>
+  &nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=180&height=60&lines=PROJECT;PROJECT" valign="middle"/>
+</p>
 
-</br>
+
+
+
+
+
+
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=130&pause=700&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D;%3CTECH_STACK%2F%3E;%7B+TECH_STACK+%7D" />
+</p>
+
 
 <p align="center">
      <img src="https://img.shields.io/badge/react-61DAFB?style=plastic-square&logo=react&logoColor=black">  &nbsp
  <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=purple"> &nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white"/> &nbsp </br> </hr>
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic-square&logo=Android&logoColor=white"/> &nbsp -->
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic-square&logo=Node.js&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Express-000000?style=plastic-square&logo=Express&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Java-1F6B75?style=plastic-square&logo=OpenJDK&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic-square&logo=SpringBoot&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic-square&logo=Spring Security&logoColor=white"/></a> &nbsp 
-
-
-</p>
-</br>
-</br>
-</br>
-<p align="center">
-:seedling:공부 중인 분야:seedling: </br>
-
 </p>
 
-<div align="center">
-  
-<a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1696166769217?alt=media&token=32f26a35-129a-49bc-a991-a5cb11e07dd0" alt="stackticon" /></a>
-
-</div>
 
 
-</br></br>
+<br/><br/><br/><br/><br/><br/>
+
 
 
 
 <div align="center">
-  
-👉벨로그 작성ing👈
-
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=1&pause=999999&color=00FF41&vCenter=true&width=120&height=60&lines=VELOG"  valign="middle"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" height="26"  valign="middle"/>
 </div>
+
+
+
 
 <div align="center">
-
-<a href="https://velog.io/@yeong6415"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic-square&logo=Velog&logoColor=white"/></a> 
-
+  <a href="https://velog.io/@yeong6415">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
+  </a>
 </div>
 
-</br></br>
+<br/><br/><br/><br/>
+
 
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ji-Yeong&layout=compact&theme=vue-dark) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Ji-Yeong&show_icons=true&theme=vue-dark)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=200&section=footer)
+
+
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
