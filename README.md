@@ -70,7 +70,7 @@
   
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=150&section=footer)
 
 
 </div>
