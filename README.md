@@ -13,11 +13,11 @@
 > SYSTEM BOOT SEQUENCE INITIATED
 </pre> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=60&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=80&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+CORE+MODULES...;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
-</p>
+</p> -->
 
-
+<br/>
 <!-- 2. 로딩 -->
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Ajax-loader.gif" height="55" valign="middle"/>
@@ -25,6 +25,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=50&pause=450&color=00FF41&vCenter=true&width=250&height=80&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." valign="middle"/>
 </div>
 
+<br/>
 
 <p align="center">
   <img src="./profile.svg" width="1200"/>
