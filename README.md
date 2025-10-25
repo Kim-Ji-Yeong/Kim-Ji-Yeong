@@ -40,8 +40,12 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=130&pause=700&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D;%3CTECH_STACK%2F%3E;%7B+TECH_STACK+%7D" />
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D" />
 </p>
 
 
@@ -65,7 +69,14 @@
 </p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=150&section=footer)
+<p align="center">
+  <img src="https://dummyimage.com/2000x8/00FF41/00FF41.png" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=1800&pause=2200&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D" />
+</p>
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=150&section=footer) -->
 
 
 </div>
