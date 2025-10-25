@@ -9,9 +9,14 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
 </pre>
 
-<pre align="center">
+<!-- <pre align="center">
 > SYSTEM BOOT SEQUENCE INITIATED
-</pre>
+</pre> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=60&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=80&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+CORE+MODULES...;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
+</p>
+
 
 <!-- 2. 로딩 -->
 <div align="center">
@@ -28,12 +33,15 @@
 
 <br/>
 
-<p>
+<!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5b1.png" height="35" valign="middle"/>
   &nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=180&height=60&lines=PROJECT;PROJECT" valign="middle"/>
-</p>
+</p> -->
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=240&height=60&lines=%3E+PROJECT;%3E+PROJECT" valign="middle"/>
+</p>
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -70,7 +78,7 @@
 
 
 <p align="center">
-  <img src="https://dummyimage.com/2000x8/00FF41/00FF41.png" />
+  <img src="https://dummyimage.com/2000x4/00FF41/00FF41.png" />
 </p>
 <br/>
 <p align="center">
