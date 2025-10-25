@@ -26,20 +26,13 @@
 </p>
 
 
-
-<br/><br/><br/><br/><br/>
+<br/>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5b1.png" height="35" valign="middle"/>
   &nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=180&height=60&lines=PROJECT;PROJECT" valign="middle"/>
 </p>
-
-
-
-
-
-
 
 
 
@@ -65,14 +58,11 @@
 
 
 
-
-
-
-<br/><br/><br/><br/>
-
-
 <div align="center">
   
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=80&pause=900&color=00FF41&center=true&vCenter=true&width=460&height=40&lines=%3E+SHUTDOWN+SEQUENCE+COMPLETE;%3E+SEE+YOU+NEXT+DEPLOY" />
+</p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=150&section=footer)
