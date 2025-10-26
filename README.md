@@ -60,7 +60,7 @@
 
 <p align="center">
   <!-- <img src="./profile.svg" width="1200"/> -->
-    <img src="./CRT_profile.final.svg" width="1200"/>
+    <img src="./CRT_profile_final.svg" width="1200"/>
 </p>
 
 
