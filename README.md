@@ -1,17 +1,48 @@
+<!-- 위/아래에 <p>, <pre>, <div>로 감싸지 말고 단독 배치 -->
+<details>
+  <summary><code>&gt; HELLO_WORLD (BOOT BANNER)</code></summary>
 
-<!-- 1. 제목 ASCII -->
-<pre align="center">
+  <br>
+  <div align="center">
+    <pre>
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
 ██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
-</pre>
-
-<!-- <pre align="center">
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝  ,   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝  !
+    </pre>
+    <pre align="center">
 > SYSTEM BOOT SEQUENCE INITIATED
+</pre>
+  </div>
+</details>
+
+<!-- 1. 제목 ASCII -->
+<!-- <pre align="center">
+██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝  ,   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝  !
 </pre> -->
+
+
+<p align="center">
+  <img src="https://dummyimage.com/1600x3/00FF41/00FF41.png" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=80&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=36&lines=%3E+INITIALIZING+SYSTEM...;%3E+HELLO_WORLD;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
+</p>
+
+<p align="center">
+  <img src="https://dummyimage.com/1600x3/00FF41/00FF41.png" />
+</p>
+
+
+
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=60&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=80&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+CORE+MODULES...;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
@@ -72,16 +103,20 @@
 
 
 <div align="center">
+
   
+  <p align="center">
+  <img src="https://dummyimage.com/2000x4/00FF41/00FF41.png" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=80&pause=900&color=00FF41&center=true&vCenter=true&width=460&height=40&lines=%3E+SHUTDOWN+SEQUENCE+COMPLETE;%3E+SEE+YOU+NEXT+DEPLOY" />
 </p>
 
-
 <p align="center">
   <img src="https://dummyimage.com/2000x4/00FF41/00FF41.png" />
 </p>
-<br/>
+  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=1800&pause=2200&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D" />
 </p>
