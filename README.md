@@ -59,11 +59,10 @@
 <br/>
 
 <p align="center">
-  <img src="./profile.svg" width="1200"/>
+  <!-- <img src="./profile.svg" width="1200"/> -->
+    <img src="./final_CRTprofile.svg" width="1200"/>
 </p>
 
-
-<br/>
 
 <!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5b1.png" height="35" valign="middle"/>
@@ -71,20 +70,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=180&height=60&lines=PROJECT;PROJECT" valign="middle"/>
 </p> -->
 
-<p>
+<!-- <p>
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=240&height=60&lines=%3E+PROJECT;%3E+PROJECT" valign="middle"/>
-</p>
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
+</p> -->
 
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=130&pause=700&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D;%3CTECH_STACK%2F%3E;%7B+TECH_STACK+%7D" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D" />
 </p>
 
@@ -94,11 +89,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white"/> &nbsp 
-</p>
-
-
-
-<br/><br/><br/><br/><br/><br/>
+</p> -->
 
 
 
