@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=80&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=36&lines=%3E+INITIALIZING+SYSTEM...;%3E+HELLO_WORLD;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=80&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=36&lines=%3E+INITIALIZING+SYSTEM...;%3E+HELLO_WORLD;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
 </p>
 
 <p align="center">
@@ -68,10 +68,10 @@
   <picture>
     <source media="(max-width: 600px)"
             srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&vCenter=true&width=160&height=32&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=50&pause=450&color=00FF41&vCenter=true&width=260&height=48&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
-      style="vertical-align:middle; height:48px; max-width:none;"
-    />
+   <img
+    src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=50&pause=450&color=00FF41&vCenter=true&width=260&height=40&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
+    style="vertical-align:middle; height:40px; max-width:none;"
+  />
   </picture>
 
 </div>
