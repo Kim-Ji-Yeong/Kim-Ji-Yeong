@@ -1,0 +1,30 @@
+<!-- loader_spinner_sm.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36"
+     viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"
+     shape-rendering="geometricPrecision">
+
+  <defs>
+    <style>
+      .ring {
+        fill: none;
+        stroke: #00FF41;
+        stroke-width: 3.2;
+        stroke-linecap: round;
+        vector-effect: non-scaling-stroke;
+      }
+    </style>
+  </defs>
+
+  <!-- 연한 배경 링 -->
+  <circle class="ring" cx="24" cy="24" r="16" opacity="0.25"/>
+
+  <!-- 회전 그룹: 짧은 호 -->
+  <g transform="rotate(0 24 24)">
+    <path class="ring"
+          d="M 24 8
+             A 16 16 0 0 1 40 24" />
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 24 24" to="360 24 24"
+                      dur="0.9s" repeatCount="indefinite"/>
+  </g>
+</svg>
