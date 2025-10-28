@@ -18,19 +18,31 @@
 
   <!-- 배경/프레임 -->
   <rect width="100%" height="100%" fill="#000"/>
-  <rect x="10" y="10" width="880" height="500" rx="10" fill="none" stroke="#00FF41" stroke-width="2"/>
-  <rect x="10" y="10" width="880" height="500" fill="url(#scan)"/>
+  <!-- <rect x="10" y="10" width="880" height="500" rx="10" fill="none" stroke="#00FF41" stroke-width="2"/>
+  <rect x="10" y="10" width="880" height="500" fill="url(#scan)"/> -->
+  <rect x="10.5" y="10.5" width="879" height="499" rx="10"
+        fill="none" stroke="#00FF41" stroke-width="1"/>
+  <rect x="10" y="10" width="880" height="500" fill="url(#scan)" opacity="0.8"/>
+
+
 
   <!-- 상단 로그(모바일 크게) -->
-  <g font-family="monospace" font-size="22" fill="#00FF41" filter="url(#glow-green)">
+  <!-- <g font-family="monospace" font-size="22" fill="#00FF41" filter="url(#glow-green)">
     <text x="24" y="48">&gt; User: Ji-Yeong</text>
     <text x="24" y="78">&gt; Memory Check: 100%</text>
+  </g> -->
+  <g font-family="monospace" font-size="22" fill="#00FF41">
+    <!-- User -->
+    <text x="24" y="48" fill="none" stroke="#00FF41" stroke-width="2" opacity="0.55">&gt; User: Ji-Yeong</text>
+    <text x="24" y="48" fill="#00FF41">&gt; User: Ji-Yeong</text>
+    <!-- Memory -->
+    <text x="24" y="78" fill="none" stroke="#00FF41" stroke-width="2" opacity="0.55">&gt; Memory Check: 100%</text>
+    <text x="24" y="78" fill="#00FF41">&gt; Memory Check: 100%</text>
   </g>
 
   <!-- 메인 타이틀 이미지 (필요 시 base64/URI 넣기) -->
   <!-- 모바일 가독성 위해 약간 크게 배치 -->
   <g>
-    <!-- href는 비워두면 렌더링 안 되므로, 실제 사용할 때 data:image/... 또는 이미지 경로를 넣어줘 -->
        <image
       x="50%" y="40"
       width="780" height="240"
@@ -43,35 +55,62 @@
     </image>
 
     <!-- 서브 타이틀 -->
-    <text x="40" y="320"
+    <!-- <text x="40" y="320"
           font-family="monospace"
           font-size="24"
           fill="#00FF41"
-          filter="url(#glow-green)">FRONTEND DEVELOPER</text>
+          filter="url(#glow-green)">FRONTEND DEVELOPER</text> -->
+  </g>
+   <g font-family="monospace" font-size="24">
+    <text x="40" y="320" fill="none" stroke="#00FF41" stroke-width="2" opacity="0.55">FRONTEND DEVELOPER</text>
+    <text x="40" y="320" fill="#00FF41">FRONTEND DEVELOPER</text>
   </g>
 
   <!-- 상태 문구(모바일 확대) -->
-  <text x="50%" y="360" text-anchor="middle"
+  <!-- <text x="50%" y="360" text-anchor="middle"
         font-family="monospace" font-size="26"
         fill="#00FF41" filter="url(#glow-green)">
     Initializing User Profile..
-  </text>
+  </text> -->
+  <g font-family="monospace" font-size="26">
+    <text x="450" y="360" text-anchor="middle"
+          fill="none" stroke="#00FF41" stroke-width="2" opacity="0.55">Initializing User Profile..</text>
+    <text x="450" y="360" text-anchor="middle" fill="#00FF41">Initializing User Profile..</text>
+  </g>
+
 
   <!-- 진행바(굵게/크게) -->
-  <rect x="110" y="384" width="680" height="18" rx="5"
+  <!-- <rect x="110" y="384" width="680" height="18" rx="5"
         fill="none" stroke="#00FF41" stroke-width="2"/>
   <rect x="112" y="386" width="0" height="14" rx="4"
         fill="url(#bar)" filter="url(#glow-green)">
     <animate attributeName="width" values="0;676;0" dur="7.5s" repeatCount="indefinite"/>
+  </rect> -->
+  <rect x="110.5" y="384.5" width="679" height="17" rx="5"
+        fill="none" stroke="#00FF41" stroke-width="1"/>
+  <rect x="112" y="386" width="0" height="14" rx="4"
+        fill="url(#bar)">
+    <animate attributeName="width" values="0;676;0" dur="7.5s" repeatCount="indefinite"/>
   </rect>
 
+
   <!-- COME IN + 커서 깜빡임 -->
-  <text x="50%" y="452" text-anchor="middle"
+  <!-- <text x="50%" y="452" text-anchor="middle"
         font-family="monospace" font-size="22"
         fill="#00FF41" filter="url(#glow-green)">
-    &gt; COME IN
-    <tspan>_
-      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
+    &gt; COME IN -->
+
+  <g font-family="monospace" font-size="22">
+    <text x="450" y="452" text-anchor="middle"
+          fill="none" stroke="#00FF41" stroke-width="2" opacity="0.55">&gt; COME IN</text>
+    <text x="461" y="452" text-anchor="middle" fill="#00FF41">
+      &gt; COME IN
+      <tspan>_
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </tspan>
+    </text>
+  </g>
+
+
+  
 </svg>
