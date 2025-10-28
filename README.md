@@ -63,45 +63,9 @@
 <!-- 확실한 간격: 투명 1x1 이미지(10px 폭) -->
     <img
       src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
-      width="3" height="1" alt=""
+      width="1" height="1" alt=""
       style="display:inline-block; vertical-align:middle;"
     />
-<!-- LOADING 텍스트 -->
-    <picture style="display:inline-block; vertical-align:middle;">
-      <source media="(max-width: 600px)"
-        srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=150&height=28&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=220&height=40&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
-        alt="LOADING..."
-        style="display:block; max-width:none;"
-      />
-    </picture>
-  </span>
-</p>
-
-
-
-<p align="center">
-  <span style="display:inline-block; white-space:nowrap;">
-    <!-- 스피너 -->
-    <picture style="display:inline-block; vertical-align:middle;">
-      <source media="(max-width: 600px)" srcset="./loader_spinner_mobile.svg" />
-      <img src="./loader_spinner.svg" alt="" height="40" style="display:block;" />
-    </picture>
- <!-- ✅ 간격 -->
-    <!-- 웹: margin-right / 모바일: 스페이서 IMG -->
-    <picture>
-      <!-- 모바일 전용: 투명 스페이서 10px -->
-      <source
-        media="(max-width:600px)"
-        srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
-      />
-      <!-- 웹 전용: 그냥 빈 span 흉내 (넓이 10px) -->
-      <img
-        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
-        style="width:3px; height:1px; margin-right:10px;"
-      />
-    </picture>
 <!-- LOADING 텍스트 -->
     <picture style="display:inline-block; vertical-align:middle;">
       <source media="(max-width: 600px)"
