@@ -48,12 +48,7 @@
     </style>
 
     <filter id="glow-green" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-      <filter id="glow-greenV2" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1" result="b"/>
+      <feGaussianBlur stdDeviation="3" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
@@ -88,7 +83,7 @@
     <text x="24" y="48">&gt; User: Ji-Yeong</text>
     <text x="24" y="78">&gt; Memory Check: 100%</text>
   </g> -->
-  <g font-family="VT323" font-size="35" fill="#00FF41"  filter="url(#glow-greenV2)" >
+  <g font-family="VT323" font-size="35" fill="#00FF41" opacity="0.9">
     <!-- User -->
     <text x="45" y="65" fill="none" stroke="#00FF41" stroke-width="0" >&gt; User: Ji-Yeong</text>
     <text x="45" y="65" fill="#00FF41">&gt; User: Ji-Yeong</text>
@@ -124,7 +119,7 @@
         fill="#00FF41" filter="url(#glow-green)">
     Initializing User Profile..
   </text> -->
-  <g font-family="VT323" font-size="40" filter="url(#glow-greenV2)">
+  <g font-family="VT323" font-size="40" opacity="0.9">
     <text x="450" y="700" text-anchor="middle"
           fill="none" stroke="#00FF41" stroke-width="0" >Initializing User Profile ...</text>
     <text x="450" y="700" text-anchor="middle" fill="#00FF41">Initializing User Profile ...</text>
@@ -154,7 +149,7 @@
         fill="#00FF41" filter="url(#glow-green)">
     &gt; COME IN -->
 
-  <g font-family="VT323" font-size="40" filter="url(#glow-greenV2)" >
+  <g font-family="VT323" font-size="40" opacity="0.9">
 
     <text x="450" y="840" text-anchor="middle"
           fill="none" stroke="#00FF41" stroke-width="0" >
