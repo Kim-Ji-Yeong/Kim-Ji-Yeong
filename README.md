@@ -90,7 +90,7 @@
   <img src="./CRT_intro.svg" width="100%"/>
 </picture> -->
 <picture>
-  <source media="(max-width: 640px)" srcset="./CRT_intro_mobile.svg" />
+  <source media="(max-width: 640px)" srcset="./CRT_intro_mobile_v2.svg" />
   <img src="./CRT_intro.svg" width="100%"/>
 </picture>
 
