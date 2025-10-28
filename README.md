@@ -50,12 +50,21 @@
 
 <br/>
 <!-- 2. 로딩 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Ajax-loader.gif" height="75" valign="middle"/>
   &nbsp;&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=50&pause=450&color=00FF41&vCenter=true&width=250&height=80&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." valign="middle"/>
-</div> 
+</div>  -->
 
+<div align="center" style="display:inline-block;">
+  <img src="./loader_spinner.svg" height="48" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=50&pause=450&color=00FF41&vCenter=true&width=260&height=48&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
+    height="48"
+    style="vertical-align:middle;"
+  />
+</div>
 
 
 
