@@ -1,7 +1,0 @@
-<!-- loader_spinner.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 50 50">
-  <circle cx="25" cy="25" r="20" fill="none" stroke="#00FF41" stroke-width="4" opacity="0.25"/>
-  <circle cx="25" cy="25" r="20" fill="none" stroke="#00FF41" stroke-width="4" stroke-linecap="round" stroke-dasharray="31.4 188.4">
-    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1s" repeatCount="indefinite"/>
-  </circle>
-</svg>
