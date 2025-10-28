@@ -56,7 +56,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=50&pause=450&color=00FF41&vCenter=true&width=250&height=80&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." valign="middle"/>
 </div>  -->
 
-<div align="center" style="display:inline-block;">
+<!-- <div align="center" style="display:inline-block;">
   <img src="./loader_spinner.svg" height="48" style="vertical-align:middle;" />
   &nbsp;&nbsp;
   <img
@@ -64,9 +64,28 @@
     height="48"
     style="vertical-align:middle;"
   />
+</div> -->
+
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:12px;">
+
+  <!-- 스피너 (반응형 치환) -->
+  <picture>
+    <source media="(max-width: 600px)" srcset="./loader_spinner_mobile.svg" />
+    <img src="./loader_spinner.svg" height="48" style="vertical-align:middle;" />
+  </picture>
+&nbsp;
+
+  <!-- LOADING 텍스트 (반응형 치환) -->
+  <picture>
+    <source media="(max-width: 600px)"
+            srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=50&pause=450&color=00FF41&vCenter=true&width=200&height=36&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=50&pause=450&color=00FF41&vCenter=true&width=260&height=48&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
+      style="vertical-align:middle; height:48px;"
+    />
+  </picture>
+
 </div>
-
-
 
 
 <br/>
