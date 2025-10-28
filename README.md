@@ -92,7 +92,7 @@
       <img src="./loader_spinner.svg" alt="" height="40" style="display:block; vertical-align:middle;" />
     </picture>
 <!-- 간격: 모바일/웹 공통으로 확실하게 확보 -->
-    <span style="display:inline-block; width:10px; height:1px;"></span>
+    <span style="display:inline-block; width:50px; height:1px;"></span>
 <!-- LOADING 텍스트 -->
     <picture>
       <source media="(max-width: 600px)"
@@ -113,7 +113,7 @@
       <img src="./loader_spinner.svg" alt="" height="40" style="display:block; vertical-align:middle;" />
     </picture>
 
-   <picture style="margin-left:10px;">
+   <picture style="margin-left:30px;">
       <source media="(max-width: 600px)"
         srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=150&height=28&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
       <img
