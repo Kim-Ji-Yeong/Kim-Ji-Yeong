@@ -61,6 +61,28 @@
 </p>
 
 
+<p align="center">
+  <span style="display:inline-flex; align-items:center; gap:10px;">
+    <!-- 스피너: 데스크톱=기본, 모바일=보정된 작은 버전 -->
+    <picture>
+      <source media="(max-width: 600px)" srcset="./loader_spinner_mobile.svg" />
+      <img src="./loader_spinner.svg" alt="" height="40" style="display:block; vertical-align:middle;" />
+    </picture>
+ <!-- LOADING 텍스트: 데스크톱/모바일 각각 작은 캔버스 -->
+    <picture>
+      <!-- 모바일: 더 작은 사이즈 -->
+      <source media="(max-width: 600px)"
+        srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=150&height=28&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
+      <!-- 데스크톱: 셧다운과 맞춘 크기(예: size=22, 220x40) -->
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=220&height=40&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
+        alt="LOADING..."
+        style="display:block; vertical-align:middle; max-width:none;" />
+    </picture>
+  </span>
+</p>
+
+
 
 
 <br/>
