@@ -53,7 +53,7 @@
 
 <div align="center" style="display:inline-block; white-space:nowrap;">
 
-  <!-- 스피너: 데스크톱 48, 모바일 36 -->
+  <!-- 스피너: 데스크톱 48 / 모바일 32 -->
   <picture>
     <source media="(max-width: 600px)" srcset="./loader_spinner_mobile.svg" />
     <img src="./loader_spinner.svg"
@@ -61,13 +61,13 @@
          style="vertical-align:middle;" />
   </picture>
 
-  <!-- 간격: 안전한 더미 이미지로 16px 여백 -->
-  <img src="https://dummyimage.com/16x1/000/000.png" width="16" height="1" alt="" />
+  <!-- 간격: 여백 12px -->
+  <img src="https://dummyimage.com/12x1/000/000.png" width="12" height="1" alt="" />
 
-  <!-- LOADING 텍스트: 데스크톱(28/260/48) / 모바일(20/180/36) -->
+  <!-- LOADING 텍스트: 데스크톱 / 모바일 소형 -->
   <picture>
     <source media="(max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=50&pause=450&color=00FF41&vCenter=true&width=180&height=36&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
+            srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&vCenter=true&width=160&height=32&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
     <img
       src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&duration=50&pause=450&color=00FF41&vCenter=true&width=260&height=48&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
       style="vertical-align:middle; height:48px; max-width:none;"
@@ -75,6 +75,7 @@
   </picture>
 
 </div>
+
 
 
 
