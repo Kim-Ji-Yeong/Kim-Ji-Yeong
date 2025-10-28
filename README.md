@@ -58,10 +58,20 @@
 
 <br/>
 
-<p align="center">
-  <!-- <img src="./profile.svg" width="1200"/> -->
+<!-- <p align="center">
     <img src="./CRT_profile_final.svg" width="1200"/>
+</p> -->
+<!-- 인트로 (COME IN까지) -->
+<p align="center">
+  <img src="./CRT_intro.svg" width="100%"/>
 </p>
+
+<!-- 메인 (PROJECT ~ TECH STACK): 화면 폭 640px 이하에서 모바일 버전 사용 -->
+<picture>
+  <source media="(max-width: 640px)" srcset="./CRT_main_mobile.svg" />
+  <img src="./CRT_main.svg" width="100%"/>
+</picture>
+
 
 
 <!-- <p>
