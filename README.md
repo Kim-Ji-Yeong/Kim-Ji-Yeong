@@ -84,8 +84,12 @@
 
 
 <!-- 인트로 (COME IN까지): 폭 ≤ 640px에서 모바일 전용 사용 -->
-<picture>
+<!-- <picture>
   <source media="(max-width: 640px)" srcset="./CRT_intro_mobile.svg" />
+  <img src="./CRT_intro.svg" width="100%"/>
+</picture> -->
+<picture>
+  <source media="(max-width: 640px)" srcset="./final.CRT_intro_mobile.svg" />
   <img src="./CRT_intro.svg" width="100%"/>
 </picture>
 
