@@ -1,4 +1,3 @@
-<!-- 위/아래에 <p>, <pre>, <div>로 감싸지 말고 단독 배치 -->
 <details>
   <summary><code>&gt; HELLO_WORLD (BOOT BANNER)</code></summary>
 
@@ -17,17 +16,7 @@
 </pre>
   </div>
 </details>
-
-<!-- 1. 제목 ASCII -->
-<!-- <pre align="center">
-██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
-███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝  ,   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝  !
-</pre> -->
-
+<!-- ------------------------------------------------------------------------------------ -->
 
 <p align="center">
   <img src="https://dummyimage.com/1600x3/00FF41/00FF41.png" />
@@ -42,49 +31,39 @@
 </p>
 
 
-
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&duration=60&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=80&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+CORE+MODULES...;%3E+ACCESS+GRANTED;%3E+WELCOME,+KIM-JI-YEONG" />
-</p> -->
-
 <br/>
-<!-- 2. 로딩 -->
+<!--  로딩  -->
 
-<div align="center" style="display:inline-block; white-space:nowrap;">
-
-  <!-- 스피너: 데스크톱 48 / 모바일 32 -->
-  <picture>
-    <source media="(max-width: 600px)" srcset="./loader_spinner_mobile.svg" />
-    <img src="./loader_spinner.svg"
-         height="48"
-         style="vertical-align:middle;" />
-  </picture>
-
-  <!-- 간격: 여백 12px -->
-  <img src="https://dummyimage.com/12x1/000/000.png" width="12" height="1" alt="" />
-
-  <!-- LOADING 텍스트: 데스크톱 / 모바일 소형 -->
-  <picture>
-    <source media="(max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&vCenter=true&width=160&height=32&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
-   <img
-    src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=50&pause=450&color=00FF41&vCenter=true&width=260&height=40&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
-    style="vertical-align:middle; height:40px; max-width:none;"
-  />
-  </picture>
-
-</div>
-
+<p align="center">
+  <span style="display:inline-block; white-space:nowrap;">
+    <!-- 스피너: 데스크톱 40 / 모바일 28 -->
+    <picture>
+      <source media="(max-width: 480px)" srcset="./loader_spinner_mobile.svg" />
+      <img src="./loader_spinner.svg"
+           alt=""
+           height="40"
+           style="vertical-align:middle; display:inline-block;" />
+    </picture>
+    <!-- 간격 -->
+    <span style="display:inline-block; width:10px; height:1px;"></span>
+ <!-- LOADING 텍스트: 데스크톱/모바일 각각 더 작은 폭으로 교체 -->
+    <picture>
+      <!-- 모바일용: size=18, width=150, height=28 로 축소 + 가운데 정렬 -->
+      <source media="(max-width: 480px)"
+              srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=150&height=28&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........." />
+      <!-- 데스크톱용: size=22, width=220, height=40 로 살짝 줄임 + 가운데 정렬 -->
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=50&pause=450&color=00FF41&center=true&vCenter=true&width=220&height=40&lines=LOADING.........;L0ADING.........;LOAD1NG.........;LOADING.._......;L0AD1NG.........;LOADING........."
+        alt="LOADING..."
+        style="vertical-align:middle; display:inline-block; height:40px; max-width:none;" />
+    </picture>
+  </span>
+</p>
 
 
 
 
 <br/>
-
-<!-- <p align="center">
-    <img src="./CRT_profile_final.svg" width="1200"/>
-</p> -->
 
 
 <!-- 인트로 (COME IN까지): 폭 ≤ 640px에서 모바일 전용 사용 -->
@@ -100,36 +79,7 @@
 </picture>
 
 
-
-
-<!-- <p>
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5b1.png" height="35" valign="middle"/>
-  &nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=180&height=60&lines=PROJECT;PROJECT" valign="middle"/>
-</p> -->
-
-<!-- <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=120&pause=800&color=00FF41&vCenter=true&width=240&height=60&lines=%3E+PROJECT;%3E+PROJECT" valign="middle"/>
-</p> -->
-
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=130&pause=700&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D;%3CTECH_STACK%2F%3E;%7B+TECH_STACK+%7D" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=35&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=520&height=60&lines=%5BTECH+STACK%5D" />
-</p>
-
-
-<p align="center">
-     <img src="https://img.shields.io/badge/react-61DAFB?style=plastic-square&logo=react&logoColor=black">  &nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic-square&logo=typescript&logoColor=white"/> &nbsp 
-</p> -->
-
-
+<!-- -------------------------------------------------------------------------------------- -->
 
 <div align="center">
 
@@ -149,7 +99,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=1800&pause=2200&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D" />
 </p>
-<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:076C44,50:20C997,100:C1FBA4&height=150&section=footer) -->
+
 
 
 </div>
