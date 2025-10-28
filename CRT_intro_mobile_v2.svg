@@ -48,7 +48,7 @@
     </style>
 
     <filter id="glow-green" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feGaussianBlur stdDeviation="5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
@@ -83,7 +83,7 @@
     <text x="24" y="48">&gt; User: Ji-Yeong</text>
     <text x="24" y="78">&gt; Memory Check: 100%</text>
   </g> -->
-  <g font-family="VT323" font-size="30" fill="#00FF41"  filter="url(#glow-green)" >
+  <g font-family="VT323" font-size="35" fill="#00FF41"  filter="url(#glow-green)" >
     <!-- User -->
     <text x="45" y="65" fill="none" stroke="#00FF41" stroke-width="0" >&gt; User: Ji-Yeong</text>
     <text x="45" y="65" fill="#00FF41">&gt; User: Ji-Yeong</text>
@@ -108,7 +108,7 @@
       <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
     </image>
   </g>
-  <g font-family="VT323" font-size="40" filter="url(#glow-green)" >
+  <g font-family="VT323" font-size="50" filter="url(#glow-green)" >
     <text x="50" y="550" fill="none" stroke="#00FF41" stroke-width="0" opacity="0.55">FRONTEND DEVELOPER</text>
     <text x="50" y="550" fill="#00FF41">FRONTEND DEVELOPER</text>
   </g>
@@ -119,7 +119,7 @@
         fill="#00FF41" filter="url(#glow-green)">
     Initializing User Profile..
   </text> -->
-  <g font-family="VT323" font-size="30" filter="url(#glow-green)">
+  <g font-family="VT323" font-size="40" filter="url(#glow-green)">
     <text x="450" y="700" text-anchor="middle"
           fill="none" stroke="#00FF41" stroke-width="0" >Initializing User Profile ...</text>
     <text x="450" y="700" text-anchor="middle" fill="#00FF41">Initializing User Profile ...</text>
@@ -149,7 +149,7 @@
         fill="#00FF41" filter="url(#glow-green)">
     &gt; COME IN -->
 
-  <g font-family="VT323" font-size="30" filter="url(#glow-green)">
+  <g font-family="VT323" font-size="40" filter="url(#glow-green)">
 
     <text x="450" y="840" text-anchor="middle"
           fill="none" stroke="#00FF41" stroke-width="0" >
