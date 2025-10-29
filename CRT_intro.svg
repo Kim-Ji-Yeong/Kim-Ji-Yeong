@@ -38,9 +38,9 @@
     <text x="24" y="44">&gt; User: Ji-Yeong</text>
     <text x="24" y="68">&gt; Memory Check: 100%</text>
   </g> -->
-   <g font-family="VT323" font-size="24" fill="#00FF41" opacity="1" filter="url(#glow-green)" >
+    <g font-family="VT323" font-size="24" fill="#00FF41"  filter="url(#glow-green)" >
     <!-- User -->
-   
+    
     <text x="35" y="50" fill="#00FF41">&gt; User: Ji-Yeong</text>
     <!-- Memory -->
 
@@ -85,7 +85,7 @@
 
   <!-- 상태 문구 -->
   <text x="50%" y="320" text-anchor="middle" font-family="VT323" font-size="24" fill="#00FF41" filter="url(#glow-green)">
-    Initializing User Profile..
+    Initializing User Profile ...
   </text>
   <!-- <g font-family="VT323" font-size="28" opacity="0.9">
       <text x="50%" y="320" text-anchor="middle"
@@ -96,9 +96,9 @@
 
 
   <!-- 진행바 -->
-  <rect x="150" y="340" width="600" height="19" rx="2" fill="none" stroke="#00FF41" stroke-width="3" opacity="0.8"/>
-  <rect x="152" y="342" width="0" height="15" rx="1" fill="url(#bar)" filter="url(#glow-green)" >
-    <animate attributeName="width" values="0;596;0" dur="8s" repeatCount="indefinite" />
+  <rect x="150" y="340" width="600" height="19" rx="1" fill="none" stroke="#00FF41" stroke-width="3"  filter="url(#glow-green)"/>
+  <rect x="152" y="343.5" width="0" height="11.5" rx="1" fill="url(#bar)" filter="url(#glow-green)" >
+    <animate attributeName="width" values="0;596;0" dur="8s" repeatCount="indefinite" opacity="0.8"/>
   </rect>
 
   <!-- COME IN -->
