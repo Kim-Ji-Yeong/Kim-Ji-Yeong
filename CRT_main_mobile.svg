@@ -98,7 +98,7 @@
     <!-- JAVASCRIPT (좌/2행) -->
     <g transform="translate(250,1070)">
       <!-- <rect x="-150" y="-28" width="300" height="56" rx="10" fill="none" stroke="#00FF41" stroke-width="2"/> -->
-            <rect x="-140" y="-35" width="280" height="60" rx="2" fill="none" stroke="#00FF41" stroke-width="2" />
+            <rect x="-140" y="-35" width="280" height="60" rx="2" fill="none" stroke="#00FF41" stroke-width="2" filter="url(#glow-green)" />
       <!-- <text text-anchor="middle" y="8">JAVASCRIPT</text> -->
       <text text-anchor="middle" y="8" fill="none" stroke="#00FF41" stroke-width="1" opacity="0.55" filter="url(#glow-green)">JAVASCRIPT</text>
       <text text-anchor="middle" y="8" fill="#00FF41">JAVASCRIPT</text>
