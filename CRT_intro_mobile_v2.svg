@@ -1,3 +1,4 @@
+
 <!-- CRT_intro_mobile.svg -->
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
@@ -48,7 +49,7 @@
     </style>
 
     <filter id="glow-green" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feGaussianBlur stdDeviation="2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
@@ -83,12 +84,10 @@
     <text x="24" y="48">&gt; User: Ji-Yeong</text>
     <text x="24" y="78">&gt; Memory Check: 100%</text>
   </g> -->
-  <g font-family="VT323" font-size="35" fill="#00FF41" opacity="0.9">
+  <g font-family="VT323" font-size="35" fill="#00FF41" filter="url(#glow-green)">
     <!-- User -->
-    <text x="45" y="65" fill="none" stroke="#00FF41" stroke-width="0" >&gt; User: Ji-Yeong</text>
     <text x="45" y="65" fill="#00FF41">&gt; User: Ji-Yeong</text>
     <!-- Memory -->
-    <text x="45" y="110" fill="none" stroke="#00FF41" stroke-width="0" >&gt; Memory Check: 100%</text>
     <text x="45" y="110" fill="#00FF41">&gt; Memory Check: 100%</text>
   </g>
 
@@ -108,7 +107,7 @@
       <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
     </image>
   </g>
-  <g font-family="VT323" font-size="50" filter="url(#glow-green)" >
+  <g font-family="VT323" font-size="55" filter="url(#glow-green)" >
     <text x="50" y="550" fill="none" stroke="#00FF41" stroke-width="0" opacity="0.55">FRONTEND DEVELOPER</text>
     <text x="50" y="550" fill="#00FF41">FRONTEND DEVELOPER</text>
   </g>
@@ -119,9 +118,8 @@
         fill="#00FF41" filter="url(#glow-green)">
     Initializing User Profile..
   </text> -->
-  <g font-family="VT323" font-size="40" opacity="0.9">
-    <text x="450" y="700" text-anchor="middle"
-          fill="none" stroke="#00FF41" stroke-width="0" >Initializing User Profile ...</text>
+  <g font-family="VT323" font-size="35" filter="url(#glow-green)">
+   
     <text x="450" y="700" text-anchor="middle" fill="#00FF41">Initializing User Profile ...</text>
   </g>
 
@@ -134,12 +132,12 @@
         fill="url(#bar)" filter="url(#glow-green)">
     <animate attributeName="width" values="0;676;0" dur="7.5s" repeatCount="indefinite"/>
   </rect> -->
-  <rect x="110.5" y="750" width="679" height="33" rx="3"
-        fill="none" stroke="#00FF41" stroke-width="4"  filter="url(#glow-green)"/>
+  <rect x="110.5" y="750" width="679" height="33" rx="1"
+        fill="none" stroke="#00FF41" stroke-width="3"  filter="url(#glow-green)" />
 
   <rect x="112" y="754.5" width="0" height="24" rx="1"
-        fill="url(#bar)" ilter="url(#glow-green)" opacity="0.8"> 
-    <animate attributeName="width" values="0;676;0" dur="7.5s" repeatCount="indefinite" filter="url(#glow-green)"/>
+        fill="url(#bar)" filter="url(#glow-green)" opacity="0.8"> 
+    <animate attributeName="width" values="0;676;0" dur="7.5s" repeatCount="indefinite" filter="url(#glow-green)" />
   </rect>
 
 
@@ -149,15 +147,9 @@
         fill="#00FF41" filter="url(#glow-green)">
     &gt; COME IN -->
 
-  <g font-family="VT323" font-size="40" opacity="0.9">
+  <g font-family="VT323" font-size="30" filter="url(#glow-green)">
 
-    <text x="450" y="840" text-anchor="middle"
-          fill="none" stroke="#00FF41" stroke-width="0" >
-      &gt; COME IN
-      <tspan>_
-        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
-      </tspan>
-    </text>
+  
 
     <text x="450" y="840"  text-anchor="middle" fill="#00FF41">
       &gt; COME IN
@@ -169,5 +161,4 @@
   </g>
 
 
-  
 </svg>
