@@ -57,8 +57,8 @@
   <span style="display:inline-block; white-space:nowrap;">
     <!-- 스피너 -->
     <picture style="display:inline-block; vertical-align:middle;">
-      <source media="(max-width: 600px)" srcset="./loader_spinner_mobile.svg" />
-      <img src="./loader_spinner.svg" alt="" height="40" style="display:block;" />
+      <source media="(max-width: 600px)" srcset="./assets/spinner/loader_spinner_mobile.svg" />
+      <img src="./assets/spinner/loader_spinner.svg" alt="" height="40" style="display:block;" />
     </picture>
 <!-- 확실한 간격: 투명 1x1 이미지(10px 폭) -->
     <img
@@ -90,14 +90,14 @@
   <img src="./CRT_intro.svg" width="100%"/>
 </picture> -->
 <picture>
-  <source media="(max-width: 640px)" srcset="./CRT_intro_mobile_v2.svg" />
-  <img src="./CRT_intro.svg" width="100%"/>
+  <source media="(max-width: 640px)" srcset="./assets/intro/CRT_intro_mobile_v2.svg" />
+  <img src="./assets/intro/CRT_intro.svg" width="100%"/>
 </picture>
 
 <!-- 메인 (PROJECT ~ TECH STACK): 이미 설정한 대로 -->
 <picture>
-  <source media="(max-width: 640px)" srcset="./CRT_main_mobile.svg" />
-  <img src="./CRT_main.svg" width="100%"/>
+  <source media="(max-width: 640px)" srcset="./assets/main/CRT_main_mobile.svg" />
+  <img src="./assets/main/CRT_main.svg" width="100%"/>
 </picture>
 
 
